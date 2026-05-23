@@ -2,7 +2,7 @@
 
 A friendly, cross-platform calorie- and nutrition-tracking app with a turn-by-turn voice cooking assistant that rebalances recipes to fit your day.
 
-> **Status:** scaffold + database schema only. See [Roadmap](#roadmap) for what ships next.
+> **Working on a fresh machine?** Read [docs/SETUP.md](docs/SETUP.md) first. **Want context on what's done and what's next?** [docs/STATUS.md](docs/STATUS.md). **Want the full design plan?** [docs/PLAN.md](docs/PLAN.md).
 
 ---
 
